@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\EPAM Labs\KMV-while\KMVWhile\KMVWhile\obj\Debug\KMVWhile.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EPAM Labs\KMV-while\KMVWhile\KMVWhile\bin\Debug\KMVWhile.exe.config
+C:\Users\User\Desktop\EPAM Labs\KMV-while\KMVWhile\KMVWhile\bin\Debug\KMVWhile.exe
+C:\Users\User\Desktop\EPAM Labs\KMV-while\KMVWhile\KMVWhile\bin\Debug\KMVWhile.pdb
+C:\Users\User\Desktop\EPAM Labs\KMV-while\KMVWhile\KMVWhile\obj\Debug\KMVWhile.exe
+C:\Users\User\Desktop\EPAM Labs\KMV-while\KMVWhile\KMVWhile\obj\Debug\KMVWhile.pdb
